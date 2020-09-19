@@ -11,6 +11,8 @@ num_print_cycles  = 10
 
 
 guiding_centres = true
+write_hr = true
+write_xyz = true
 
 bands_plot = true
 
